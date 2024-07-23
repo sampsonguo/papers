@@ -1,6 +1,10 @@
 "# papers"
 
-## 1. [Deep Learning](#deep-learning)
+## 1. [Recommender Systems](#recommender-systems)
 
 * [Ads Recommendation in a Collapsed and Entangled World](https://arxiv.org/abs/2403.00793)
 * [Understanding the Ranking Loss for Recommendation with Sparse User Feedback](https://arxiv.org/pdf/2403.14144)
+
+## 2. [Large Language Models](#large-language-models)
+
+* [Qwen2-Audio Technical Report](https://arxiv.org/pdf/2407.10759v1)
