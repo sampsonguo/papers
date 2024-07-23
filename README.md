@@ -8,3 +8,4 @@
 ## 2. [Large Language Models](#large-language-models)
 
 * [Qwen2-Audio Technical Report](https://arxiv.org/pdf/2407.10759v1)
+* [IMAGDressing-v1: Customizable Virtual Dressing](https://arxiv.org/pdf/2407.12705v1)
