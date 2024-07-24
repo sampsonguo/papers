@@ -4,6 +4,7 @@
 
 * [Ads Recommendation in a Collapsed and Entangled World](https://arxiv.org/abs/2403.00793)
 * [Understanding the Ranking Loss for Recommendation with Sparse User Feedback](https://arxiv.org/pdf/2403.14144)
+* [On the Embedding Collapse when Scaling up Recommendation Models](https://arxiv.org/pdf/2310.04400)
 
 ## 2. [Large Language Models](#large-language-models)
 
